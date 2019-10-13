@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of Main.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\source\Main.c, main.c.
+  Main.c
+Debug\main.obj : warning LNK4042: 指定物件超過一次，已忽略多餘的部分
+  2.31.vcxproj -> C:\Users\kevin\Desktop\c_code\HW1\2.31\2.31\2.31\..\..\temp\debug\2.31.exe
